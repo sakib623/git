@@ -7,5 +7,6 @@ public class Hello{
 
     public static void sayHello(String name){
         System.out.println("Hello Hi "+name);
+        System.out.println("This is new line");
     }
 }
