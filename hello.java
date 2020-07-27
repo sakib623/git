@@ -5,12 +5,7 @@ public class Hello{
                 sayHello("Omar");
     }
 
-    public static void sayHello(String name){
-        System.out.println("Hello Hi "+name);
-        System.out.println("This is new line");
-    }
-
-    public static void sqr(int x){
-        return x*x;
-    }
+   public static void sakib(){
+       System.out.println("Add a new method sakib");
+   }
 }
